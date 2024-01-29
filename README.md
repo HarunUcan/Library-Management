@@ -1,6 +1,7 @@
 # Library Management
  Library management project
-  Tüm Kitapları Listeleme 
+ 
+  - Tüm Kitapları Listeleme 
   
 ![Ekran görüntüsü 2024-01-29 233131](https://github.com/HarunUcan/Library-Management/assets/129796812/5072ff6e-58a1-404a-9153-cec252325676)
  
