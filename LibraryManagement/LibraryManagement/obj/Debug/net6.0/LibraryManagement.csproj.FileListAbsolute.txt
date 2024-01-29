@@ -1,0 +1,17 @@
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.exe
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.runtimeconfig.json
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CopyComplete
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\harun\Desktop\VeloGames Staj Proj\Kütüphane Yönetim Sistemi\LibraryManagement\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll

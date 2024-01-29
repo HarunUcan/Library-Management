@@ -1,0 +1,156 @@
+[
+    {
+        "ID": 1,
+        "Title": "Beyaz Diş",
+        "Writer": "Jack London",
+        "ISBN": "225458874598655",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 2,
+        "Title": "Suç ve Ceza",
+        "Writer": "Dostoyevski",
+        "ISBN": "asdf",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 3,
+        "Title": "Karamazov Kardeşler",
+        "Writer": "Dostoyevski",
+        "ISBN": "ddddddddddd",
+        "NumOfCopies": 1,
+        "BorrowedCopies": [
+            {
+                "Title": "Karamazov Kardeşler",
+                "BorrowedDate": "2023-11-28T14:03:45.2732734+03:00",
+                "BorrowerId": 1734,
+                "ExpireDaysCount": 0
+            }
+        ]
+    },
+    {
+        "ID": 4,
+        "Title": "Satranç",
+        "Writer": "Stefan Zweig",
+        "ISBN": "1111111111",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 5,
+        "Title": "Küçük Prens",
+        "Writer": "Antoine de Saint-Exupéry",
+        "ISBN": "888888888888",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 6,
+        "Title": "1984",
+        "Writer": "Stefan Zweig",
+        "ISBN": "888888888888",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 7,
+        "Title": "Sefiller",
+        "Writer": "Victor Hugo",
+        "ISBN": "6666666666666",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 8,
+        "Title": "Hayvan Çiftliği",
+        "Writer": "Stefan Zweig",
+        "ISBN": "888888888888",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 9,
+        "Title": "Matematik 1",
+        "Writer": "Mustafa Balcı",
+        "ISBN": "24051207296504",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 10,
+        "Title": "Fareler ve İnsanlar",
+        "Writer": "John Steinbeck",
+        "ISBN": "7526012036",
+        "NumOfCopies": 2,
+        "BorrowedCopies": [
+            {
+                "Title": "Fareler ve İnsanlar",
+                "BorrowedDate": "2023-12-21T14:03:03.2085558+03:00",
+                "BorrowerId": 214,
+                "ExpireDaysCount": 0
+            }
+        ]
+    },
+    {
+        "ID": 11,
+        "Title": "Dönüşüm",
+        "Writer": "Franz Kafka",
+        "ISBN": "9642850132",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 12,
+        "Title": "Beyaz Gemi",
+        "Writer": "Cengiz Aytmatov",
+        "ISBN": "6328201472",
+        "NumOfCopies": 0,
+        "BorrowedCopies": [
+            {
+                "Title": "Beyaz Gemi",
+                "BorrowedDate": "2023-12-25T13:57:58.6817436+03:00",
+                "BorrowerId": 3493,
+                "ExpireDaysCount": 5
+            },
+            {
+                "Title": "Beyaz Gemi",
+                "BorrowedDate": "2023-01-29T14:02:38.6560442+03:00",
+                "BorrowerId": 512,
+                "ExpireDaysCount": 0
+            }
+        ]
+    },
+    {
+        "ID": 13,
+        "Title": "Altıncı Koğuş",
+        "Writer": "Anton Çehov",
+        "ISBN": "9786052951569",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 14,
+        "Title": "İki Şehrin Hikayesi",
+        "Writer": "Charles Dickens",
+        "ISBN": "2356652150531",
+        "NumOfCopies": 0,
+        "BorrowedCopies": []
+    },
+    {
+        "ID": 15,
+        "Title": "Kumarbaz",
+        "Writer": "Dostoyevski",
+        "ISBN": "6024052051569",
+        "NumOfCopies": 0,
+        "BorrowedCopies": [
+            {
+                "Title": "Kumarbaz",
+                "BorrowedDate": "2024-01-29T14:38:54.056232+03:00",
+                "BorrowerId": 7216,
+                "ExpireDaysCount": 0
+            }
+        ]
+    }
+]
