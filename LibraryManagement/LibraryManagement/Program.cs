@@ -1,6 +1,4 @@
-﻿using Newtonsoft.Json;
-
-namespace LibraryManagement
+﻿namespace LibraryManagement
 {
     internal class Program
     {
