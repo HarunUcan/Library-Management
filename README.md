@@ -1,5 +1,4 @@
 # Library Management
- Library management project
 
   - JSON Kayıt Sistemi
 
