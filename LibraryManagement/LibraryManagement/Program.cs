@@ -33,13 +33,14 @@
 
                 switch (choose)
                 {
+                    case 0: return;
                     case 1: AddBook(); break;
                     case 2: PrintAllOfBooks(); break;
                     case 3: PrintSearchBooks(); break;
                     case 4: BorrowBook(); break;
                     case 5: ReturnBook();break;
                     case 6: PrintExpiredBooks();break;
-                    case 0: return;
+                    default: Console.WriteLine("\nLütfen Geçerli Bir İşlem Girin!");break;
                 }
 
                 Console.Write("\nDevam Etmek İçin Herhangi Bir Tuşa Basın..");
