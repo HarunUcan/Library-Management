@@ -120,7 +120,10 @@
         private static void PrintExpiredBooks()
         {
             Console.WriteLine("----------------------------------------------------");
-            Library.GetExpiredBooks().ForEach(x => Console.WriteLine("\nKitap Adı : " + x.Title + "\nÜye No : " + x.BorrowerId + "\nGeciken Gün : " + x.ExpireDaysCount + "\n\n----------------------------------------------------"));
+            Library.GetExpiredBooks().ForEach(x => Console.WriteLine("\nKitap Adı : " + x.Title + 
+                                                                    "\nÜye No : " + x.BorrowerId + 
+                                                                    "\nGeciken Gün : " + x.ExpireDaysCount + 
+                                                                    "\n\n----------------------------------------------------"));
 
         }
 
